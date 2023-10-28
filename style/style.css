@@ -1,0 +1,74 @@
+header {
+    display: flex;
+    height: 160px;
+    justify-content: center;
+    padding: 52px 98px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+.nav1 {
+    display: flex;
+    width: 393px;
+    height: 28px;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 50px;
+    flex-shrink: 0;
+}
+
+.div1 {
+    display: flex;
+    width: 222px;
+    height: 56px;
+    padding: 12px 8px 12px 182px;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+
+.span1 {
+    color: #27187F;
+    font-family: Ubuntu;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.span2 {
+    color: #758BFD;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.li1 {
+    color: #27187F;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    display: inline-block;
+}
+
+.li2 {
+    margin-inline: 50px;
+    color: #758BFD;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    display: inline-block;
+}
+
+.li3 {
+    color: red;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    display: inline-block;
+}
