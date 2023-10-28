@@ -137,8 +137,9 @@ footer {
 }
 
 .logos{
-    color: #FFF;
+    color: red;
     width: 25px;
+    height: 22px;
 }
 
 .footer_div{
@@ -160,4 +161,16 @@ margin: 75px 0 105px 98px;
     line-height: 17px;
     /* 85% */
     letter-spacing: 0.2px;
+    margin-bottom: 20px;
+}
+.logo2{
+    margin-inline: 10px;
+}
+
+.ftp2{
+    margin-inline: 11px;
+}
+
+.ftp3{
+    margin-right: 11px;
 }
